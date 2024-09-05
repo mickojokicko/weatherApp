@@ -1,5 +1,9 @@
 # Weather App
 
+## Link:
+https://vremensk-prognoza-milejokic.netlify.app/
+app je prilagodjena i za mobilne uređaje
+
 Predstavlja aplikaciju za prikaz vremenskih podataka na osnovu unetog imena grada. Koristeći **OpenWeather API**, aplikacija prikazuje osnovne podatke o vremenu, kao što su temperatura, vlažnost vazduha, brzina vetra, kao i ikonu vremenskog stanja.
 
 ## Funkcionalnosti
